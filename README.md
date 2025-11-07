@@ -30,6 +30,6 @@
 
 I'm always excited to collaborate, learn, and build something impactful. Feel free to reach out or check out my work!
 
-- 📧 Email: primehrithik@gmail.com(mailto:primehrithik@gmail.com)
+- 📧 Email: primehrithik@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/ritik-yadav-4496412bb
 
