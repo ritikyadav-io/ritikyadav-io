@@ -1,5 +1,11 @@
 ## 👋 Hi there , I'm Ritik Yadav
 
+## 💻 AI/ML Enthusiast | Backend Developer | Lifelong Learner
+
+I’m an aspiring **Machine Learning and AI engineer** currently pursuing my **B.Tech in Artificial Intelligence & Data Science**.  
+Passionate about building **intelligent systems** and solving **real-world problems** using **data and code**.
+
+
 ## 🚀 About Me
 
 🎓 **B.Tech in Artificial Intelligence & Data Science**  
