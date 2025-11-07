@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ritik Yadav
+## 👋 Hi there , I'm Ritik Yadav
 
 ## 🚀 About Me
 
