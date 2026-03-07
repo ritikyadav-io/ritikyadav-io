@@ -36,6 +36,6 @@ Passionate about building **intelligent systems** and solving **real-world probl
 
 I'm always excited to collaborate, learn, and build something impactful. Feel free to reach out or check out my work!
 
-- 📧 Email: primehrithik@gmail.com
+- 📧 Email: yadavritik2027@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/ritik-yadav-4496412bb
 
