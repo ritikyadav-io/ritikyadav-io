@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ritik Yadav
 
-### AI & Data Science Student | Full Stack Developer | AI Automation Builder | Flutter Developer
+### AI & Data Science Student | Full Stack Developer | AI Automation Builder | Website Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Flutter+Developer;AI+Automation+Builder;Always+Learning+New+Technologies" />
 
