@@ -122,8 +122,6 @@ Currently building AI Agents, Data Analytics projects, SaaS products, and workfl
 
 # 📫 Connect With Me
 
-💼 **Portfolio** ritikyadav18.vercel.app
-
 📧 **Email:** yadavritik2027@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ritik-yadav-4496412bb
