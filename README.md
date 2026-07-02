@@ -56,7 +56,7 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,cpp,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql"/>
 
 </p>
 
@@ -66,7 +66,7 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
 
 </p>
 
@@ -76,7 +76,7 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mongodb"/>
 
 </p>
 
@@ -110,7 +110,6 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 - Function Calling
 - Embeddings
 - RAG
-- Vector Search
 
 ---
 
@@ -144,7 +143,7 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/>
 
 </p>
 
