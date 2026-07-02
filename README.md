@@ -1,131 +1,267 @@
-# 👋 Hi, I'm Ritik Yadav
+<div align="center">
 
-# 🚀 AI Engineer • Data Analyst • AI Automation Builder
+# Hi 👋, I'm Ritik Yadav
 
-I'm a B.Tech student in **Artificial Intelligence & Data Science** passionate about building AI-powered products, intelligent automations, and data-driven applications.
+### AI & Data Science Student | Full Stack Developer | AI Automation Builder | Flutter Developer
 
-I enjoy combining **AI + Automation + Analytics + Modern Web Technologies** to solve real-world business problems.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Flutter+Developer;AI+Automation+Builder;Always+Learning+New+Technologies" />
 
-Currently building AI Agents, Data Analytics projects, SaaS products, and workflow automation using modern AI tools.
+<p align="center">
+
+<a href="mailto:yadavritik2027@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/ritikyadav18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/ritikyadav-io">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://ritikyadav18.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</p>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+I'm a **B.Tech Artificial Intelligence & Data Science** student passionate about building modern AI applications, scalable web platforms, workflow automations, and business-focused software.
 
-📊 Aspiring Data Analyst & AI Engineer
+I enjoy solving real-world problems by combining AI, full stack development, automation, and cloud technologies.
 
-🤖 Building AI Agents & Workflow Automations
+---
 
-📈 Passionate about Business Intelligence & Data Analytics
+## 🚀 Current Focus
 
-☁️ Exploring Cloud, AWS & Scalable Systems
+- 🤖 AI Applications
+- ⚡ Workflow Automation
+- 🌐 Full Stack Development
+- 📱 Flutter Development
+- ☁️ Cloud Technologies
+- 🔗 API Integrations
+- 🚀 SaaS Development
 
-💡 Love building real-world SaaS products
+---
 
-🌱 Currently learning
+# 💻 Tech Stack
 
-- Advanced SQL
-- Data Engineering
-- AWS Cloud
-- Machine Learning
+## Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,cpp,c,mysql"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,vite"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase,mongodb"/>
+
+</p>
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,cloudflare"/>
+
+</p>
+
+### AWS
+
+- EC2
+- S3
+- IAM
+- Lambda
+- CloudFront
+
+---
+
+## AI & Machine Learning
+
+- OpenAI API
+- Claude AI
+- Google Gemini
+- Prompt Engineering
 - AI Agents
+- Function Calling
+- Embeddings
+- RAG
+- Vector Search
+
+---
+
+## AI & Automation
+
+- n8n
+- Zapier
+- Make
+- Webhooks
+- REST APIs
+- JSON APIs
+- API Integrations
 - Workflow Automation
 
 ---
 
-# 💻 Programming Languages
+## AI Developer Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-# 📊 Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- Firecrawl
+- Tavily AI
+- Jina AI
+- Vapi AI
+- ElevenLabs
+- Groq
+- OpenRouter
+- MCP (Model Context Protocol)
 
 ---
 
-# 🗄️ Databases
+## Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase"/>
 
-# ⚙️ AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
-![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge)
+</p>
 
 ---
 
-# 🌐 Full Stack & AI Development
+## Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Lovable](https://img.shields.io/badge/Lovable-FF4D6D?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm"/>
 
-# ☁️ Cloud & Deployment
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
 ---
 
-# 📚 Currently Exploring
+# ⚡ What I Build
 
-- Artificial Intelligence
-- Machine Learning
-- Data Engineering
-- ETL Pipelines
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Workflow Automation
-- Business Intelligence
-- Cloud Computing
-- MLOps
-- LLM Applications
+✅ AI Applications
+
+✅ AI Agents
+
+✅ AI Workflow Automation
+
+✅ Full Stack Web Applications
+
+✅ Flutter Applications
+
+✅ REST APIs
+
+✅ AI SaaS Products
+
+✅ Dashboard Applications
+
+✅ Business Automation Systems
+
+✅ Website Intelligence Tools
+
+✅ CRM Automations
+
+✅ Portfolio Websites
 
 ---
 
-# 🚀 Current Focus
+# 📈 GitHub Statistics
 
-✔ AI Agent Development
+<p align="center">
 
-✔ Data Analytics Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✔ AI Workflow Automation
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true"/>
 
-✔ Full Stack AI Applications
+</p>
 
-✔ Cloud Computing (AWS)
+---
 
-✔ Enterprise SaaS Development
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav-io&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build Production Ready AI Products
+
+- 🤖 Master AI Automation
+
+- 🌐 Build Scalable SaaS Applications
+
+- ☁️ Improve AWS & Cloud Skills
+
+- 📱 Publish Flutter Applications
+
+- 💼 Secure AI / Software Engineering Internship
+
+- 🌍 Contribute to Open Source
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** yadavritik2027@gmail.com
+📧 **Email**
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ritik-yadav-4496412bb
+**yadavritik2027@gmail.com**
+
+🌐 **Portfolio**
+
+https://ritikyadav18.vercel.app
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/ritikyadav18
+
+💻 **GitHub**
+
+https://github.com/ritikyadav-io
 
 ---
 
-> *"Building intelligent systems that solve real-world problems through AI, Automation, and Data."*
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Always Building • Always Learning • Always Improving 🚀**
+
+</div>
