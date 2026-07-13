@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Ritik Yadav
 
-### AI & Data Science Student | Data Analyst | AI Automation Builder | Website Developer
+### AI Engineer • Data Analyst • AI Automation Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Products;Full+Stack+Developer;Flutter+Developer;AI+Automation+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;AI+Engineer;Data+Analyst;AI+Automation+Builder;LLM+%7C+RAG+%7C+AI+Agents;Always+Learning+New+Technologies" />
 
 <p align="center">
 
@@ -32,27 +32,28 @@
 
 # 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student passionate about building modern AI applications, scalable web platforms, workflow automations, and business-focused software.
+I'm a **B.Tech Artificial Intelligence & Data Science** student passionate about building intelligent AI products, data-driven solutions, AI agents, workflow automation, and scalable software.
 
-I enjoy solving real-world problems by combining AI, full stack development, automation, and cloud technologies.
-
----
-
-## 🚀 Current Focus
-
-- 🤖 AI Applications
-- ⚡ Workflow Automation
-- 🌐 Full Stack Development
-- 📱 Flutter Development
-- ☁️ Cloud Technologies
-- 🔗 API Integrations
-- 🚀 SaaS Development
+I enjoy solving real-world business problems using **Generative AI, Data Analytics, LLMs, AI Automation, Cloud Technologies, APIs, and Modern Development Tools**.
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Current Focus
 
-## Programming Languages
+* 🤖 AI Engineering
+* 🧠 Generative AI & LLMs
+* 📊 Data Analytics & Business Intelligence
+* ⚡ AI Workflow Automation
+* 🔗 AI Agent Development
+* ☁️ Cloud & Deployment
+* 🚀 AI SaaS Products
+* 📈 Business Process Automation
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming
 
 <p>
 
@@ -62,94 +63,110 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 ---
 
-## Frontend
+## 🤖 AI Engineering
+
+* OpenAI API
+* Claude API
+* Google Gemini
+* Groq
+* OpenRouter
+* Hugging Face
+* Ollama
+* LangChain
+* LlamaIndex
+* MCP (Model Context Protocol)
+* Prompt Engineering
+* AI Agents
+* Multi-Agent Systems
+* Function Calling
+* Embeddings
+* Retrieval-Augmented Generation (RAG)
+* Vector Databases
+* AI Chatbots
+
+---
+
+## 📊 Data Analytics & Business Intelligence
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SQL
+* MySQL
+* Microsoft Excel
+* Power BI
+* Data Cleaning
+* Data Wrangling
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Dashboard Development
+* KPI Reporting
+* Business Intelligence
+
+---
+
+## ⚡ AI Automation
+
+* n8n
+* Make
+* Zapier
+* Activepieces
+* Vapi
+* ElevenLabs
+* Firecrawl
+* Tavily AI
+* Jina AI
+* Trigger.dev
+* Webhooks
+* REST APIs
+* API Integrations
+* JSON APIs
+
+---
+
+## 🚀 AI Development Tools
+
+* Cursor
+* Lovable
+* Bolt.new
+* Blink
+* Replit
+* Windsurf
+* Claude Code
+* GitHub Copilot
+* Continue.dev
+* Firebase Studio
+* v0
+* Antigravity
+
+---
+
+## ☁️ Cloud & Deployment
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,firebase,supabase,cloudflare"/>
 
 </p>
 
----
+**Experience with**
 
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,mongodb"/>
-
-</p>
-
----
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,cloudflare"/>
-
-</p>
-
-### AWS
-
-- EC2
-- S3
-- IAM
-- Lambda
-- CloudFront
+* AWS EC2
+* AWS S3
+* AWS IAM
+* AWS Lambda
+* AWS CloudFront
+* Docker
+* Vercel
+* Firebase
+* Supabase
 
 ---
 
-## AI & Machine Learning
-
-- OpenAI API
-- Claude AI
-- Google Gemini
-- Prompt Engineering
-- AI Agents
-- Function Calling
-- Embeddings
-- RAG
-
----
-
-## AI & Automation
-
-- n8n
-- Zapier
-- Make
-- Webhooks
-- REST APIs
-- JSON APIs
-- API Integrations
-- Workflow Automation
-
----
-
-## AI Developer Tools
-
-- Firecrawl
-- Tavily AI
-- Jina AI
-- Vapi AI
-- ElevenLabs
-- Groq
-- OpenRouter
-- MCP (Model Context Protocol)
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/>
-
-</p>
-
----
-
-## Tools
+## 🛠 Developer Tools
 
 <p>
 
@@ -159,31 +176,31 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 ---
 
-# ⚡ What I Build
+# 🚀 What I Build
 
 ✅ AI Applications
 
 ✅ AI Agents
 
+✅ AI Chatbots
+
 ✅ AI Workflow Automation
-
-✅ Full Stack Web Applications
-
-✅ Flutter Applications
-
-✅ REST APIs
 
 ✅ AI SaaS Products
 
-✅ Dashboard Applications
+✅ Retrieval-Augmented Generation (RAG)
 
 ✅ Business Automation Systems
 
-✅ Website Intelligence Tools
+✅ Data Analytics Dashboards
 
-✅ CRM Automations
+✅ Business Intelligence Reports
 
-✅ Portfolio Websites
+✅ REST APIs
+
+✅ Intelligent Internal Tools
+
+✅ Production-Ready AI Solutions
 
 ---
 
@@ -221,19 +238,15 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 # 🎯 2026 Goals
 
-- 🚀 Build Production Ready AI Products
-
-- 🤖 Master AI Automation
-
-- 🌐 Build Scalable SaaS Applications
-
-- ☁️ Improve AWS & Cloud Skills
-
-- 📱 Publish Flutter Applications
-
-- 💼 Secure AI / Software Engineering Internship
-
-- 🌍 Contribute to Open Source
+* 🚀 Build Production-Ready AI Products
+* 🤖 Master AI Engineering & AI Agents
+* 📊 Become an Advanced Data Analyst
+* ⚡ Build Enterprise AI Automation Systems
+* ☁️ Strengthen AWS & Cloud Skills
+* 📈 Master Power BI & Advanced Analytics
+* 💼 Secure an AI Engineer / Data Analyst / ML Engineer Role
+* 🌍 Contribute to Open Source
+* 🚀 Launch AI SaaS Products
 
 ---
 
@@ -241,19 +254,19 @@ I enjoy solving real-world problems by combining AI, full stack development, aut
 
 📧 **Email**
 
-**yadavritik2027@gmail.com**
+**[yadavritik2027@gmail.com](mailto:yadavritik2027@gmail.com)**
 
 🌐 **Portfolio**
 
-https://ritikyadav18.vercel.app
+**https://ritikyadav18.vercel.app**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/ritikyadav18
+**https://www.linkedin.com/in/ritikyadav18**
 
 💻 **GitHub**
 
-https://github.com/ritikyadav-io
+**https://github.com/ritikyadav-io**
 
 ---
 
@@ -261,6 +274,8 @@ https://github.com/ritikyadav-io
 
 ### ⭐ Thanks for visiting my profile!
 
-**Always Building • Always Learning • Always Improving 🚀**
+**AI Engineer • Data Analyst • AI Automation Builder**
+
+**Building Intelligent Products • Solving Real Problems • Shipping Impact 🚀**
 
 </div>
