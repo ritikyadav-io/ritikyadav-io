@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ritik Yadav
 
-### AI Engineer • Data Analyst • AI Automation Builder
+### AI Engineer • Data Analyst • AI Automation Builder • Learning DSA
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;AI+Engineer;Data+Analyst;AI+Automation+Builder;LLM+%7C+RAG+%7C+AI+Agents;Always+Learning+New+Technologies" />
 
@@ -201,18 +201,6 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 ✅ Intelligent Internal Tools
 
 ✅ Production-Ready AI Solutions
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
