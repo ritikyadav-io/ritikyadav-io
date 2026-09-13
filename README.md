@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ritik Yadav
 
-### AI Engineer • Data Analyst • AI Automation Builder • Learning DSA
+### Data Engineer • Data Analyst • AI Automation Builder • Learning Cloud
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;AI+Engineer;Data+Analyst;AI+Automation+Builder;LLM+%7C+RAG+%7C+AI+Agents;Always+Learning+New+Technologies" />
 
