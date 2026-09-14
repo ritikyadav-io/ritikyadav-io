@@ -78,10 +78,6 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 * Prompt Engineering
 * AI Agents
 * Multi-Agent Systems
-* Function Calling
-* Embeddings
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases
 * AI Chatbots
 
 ---
@@ -103,8 +99,6 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 * Exploratory Data Analysis (EDA)
 * Statistical Analysis
 * Dashboard Development
-* KPI Reporting
-* Business Intelligence
 
 ---
 
@@ -262,7 +256,7 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 
 ### ⭐ Thanks for visiting my profile!
 
-**AI Engineer • Data Analyst • AI Automation Builder**
+**Data Engineer • Data Analyst • AI Automation Builder**
 
 **Building Intelligent Products • Solving Real Problems • Shipping Impact 🚀**
 
