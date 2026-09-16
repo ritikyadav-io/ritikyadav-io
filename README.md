@@ -222,13 +222,9 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 
 * 🚀 Build Production-Ready AI Products
 * 🤖 Master AI Engineering & AI Agents
-* 📊 Become an Advanced Data Analyst
 * ⚡ Build Enterprise AI Automation Systems
 * ☁️ Strengthen AWS & Cloud Skills
-* 📈 Master Power BI & Advanced Analytics
-* 💼 Secure an AI Engineer / Data Analyst / ML Engineer Role
 * 🌍 Contribute to Open Source
-* 🚀 Launch AI SaaS Products
 
 ---
 
