@@ -202,16 +202,6 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav-io&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 * 🚀 Build Production-Ready AI Products
