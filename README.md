@@ -40,9 +40,7 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 
 # 🚀 Current Focus
 
-* 🤖 AI Engineering
-* 🧠 Generative AI & LLMs
-* 📊 Data Analytics & Business Intelligence
+* 📊 Data Analytics
 * ⚡ AI Workflow Automation
 * 🔗 AI Agent Development
 * ☁️ Cloud & Deployment
@@ -73,11 +71,9 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 * Hugging Face
 * Ollama
 * LangChain
-* LlamaIndex
 * MCP (Model Context Protocol)
 * Prompt Engineering
 * AI Agents
-* Multi-Agent Systems
 * AI Chatbots
 
 ---
@@ -107,12 +103,10 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 * n8n
 * Make
 * Zapier
-* Activepieces
 * Vapi
 * ElevenLabs
 * Firecrawl
 * Tavily AI
-* Jina AI
 * Trigger.dev
 * Webhooks
 * REST APIs
