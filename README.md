@@ -202,16 +202,6 @@ I enjoy solving real-world business problems using **Generative AI, Data Analyti
 
 ---
 
-# 🎯 2026 Goals
-
-* 🚀 Build Production-Ready AI Products
-* 🤖 Master AI Engineering & AI Agents
-* ⚡ Build Enterprise AI Automation Systems
-* ☁️ Strengthen AWS & Cloud Skills
-* 🌍 Contribute to Open Source
-
----
-
 # 📫 Connect With Me
 
 📧 **Email**
