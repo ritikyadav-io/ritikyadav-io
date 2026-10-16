@@ -2,28 +2,23 @@
 
 # Hi 👋, I'm Ritik Yadav
 
-### Data Engineer • Data Analyst • AI Automation Builder • Learning Cloud
+### Data Infrastructure Engineer • Cloud Architect • AI Automation Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;AI+Engineer;Data+Analyst;AI+Automation+Builder;LLM+%7C+RAG+%7C+AI+Agents;Always+Learning+New+Technologies" />
+<img src="https://demolab.com" />
 
 <p align="center">
-
-<a href="mailto:yadavritik2027@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/ritikyadav18">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/ritikyadav-io">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://ritikyadav18.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
+  <a href="mailto:yadavritik2027@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ritikyadav18">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ritikyadav-io">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://ritikyadav18.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 </div>
@@ -32,202 +27,119 @@
 
 # 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Data Science** student passionate about building intelligent AI products, data-driven solutions, AI agents, workflow automation, and scalable software.
+I am a **B.Tech Artificial Intelligence & Data Science** specialist deeply passionate about architecting **high-throughput distributed data infrastructures, scalable ETL data pipelines, and optimized cloud ecosystems**. My background merges advanced data lifecycle management with modern agentic AI tooling to turn fragmented, multi-source raw records into production-grade transactional and analytical environments.
 
-I enjoy solving real-world business problems using **Generative AI, Data Analytics, LLMs, AI Automation, Cloud Technologies, APIs, and Modern Development Tools**.
+I thrive on eliminating systemic system bottlenecks using **PySpark large-scale distributed computing, event-driven streaming with Apache Kafka, AWS cloud computing systems, database tuning, and automated operational orchestration**.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Focus & Systems Engineering
 
-* 📊 Data Analytics
-* ⚡ AI Workflow Automation
-* 🔗 AI Agent Development
-* ☁️ Cloud & Deployment
-* 🚀 AI SaaS Products
-* 📈 Business Process Automation
+* 🔄 **Distributed ETL Architecture** | Orchestrating multi-tier PySpark distributed batch processing & Glue ETL scripts.
+* ⚡ **Real-Time Stream Processing** | Architecting robust event ingestion mechanisms via Apache Kafka topologies.
+* 🗄️ **Query Optimization & Tuning** | Enhancing PostgreSQL/RDS execution plans, indices, and vacuum modeling for 40%+ performance gains.
+* 🧠 **Data Structures & Algorithms (DSA)** | Continually mastering highly complex problem-solving patterns to build low-overhead codebase foundations.
+* 🔗 **AI Agentic Data Workflows** | Integrating enterprise-grade AI tools (n8n, LangChain, Trigger.dev) for background process streaming.
+* ☁️ **Cloud Data Warehousing** | Designing star/snowflake dimensional schemas on AWS Redshift and structural S3 storage lakes.
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Programming
-
+## 💻 Programming & Core Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql"/>
-
+  <img src="https://skillicons.dev"/>
 </p>
 
 ---
 
-## 🤖 AI Engineering
+## ⚡ Data Engineering & Cloud Infrastructure
+<p>
+  <img src="https://skillicons.dev"/>
+</p>
 
-* OpenAI API
-* Claude API
-* Google Gemini
-* Groq
-* OpenRouter
-* Hugging Face
-* Ollama
-* LangChain
-* MCP (Model Context Protocol)
-* Prompt Engineering
-* AI Agents
-* AI Chatbots
+**Core Capabilities & Services:**
+* **Distributed Compute / Ingestion:** PySpark, Apache Spark, Apache Kafka (Real-time data feeds)
+* **AWS Computing & Orchestration:** AWS Glue ETL, AWS Lambda (Serverless pipelines), AWS S3 Data Lakes, Amazon Athena, Amazon Redshift, AWS EC2, AWS IAM (Role-based security enforcement), AWS CloudFront
+* **Relational Warehousing & Analytics:** PostgreSQL query analysis, Amazon RDS indexing, MySQL cluster management, Microsoft SQL Server, Schema Mapping (Star/Snowflake), Window analytical operations
+
+---
+
+## 🤖 AI Engineering & Orchestration
+* **Language Engines & Integrations:** OpenAI API, Claude API (Anthropic), Google Gemini, Groq Core, OpenRouter, Hugging Face Hub, Ollama (Local LLM configurations)
+* **Agent Frameworks:** LangChain pipeline design, MCP (Model Context Protocol) registry hooks, Vector-embedded RAG systems, Context window optimization, Prompt compilation strategies, Production AI chatbots
 
 ---
 
 ## 📊 Data Analytics & Business Intelligence
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* SQL
-* MySQL
-* Microsoft Excel
-* Power BI
-* Data Cleaning
-* Data Wrangling
-* Data Visualization
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Dashboard Development
+* **Data Processing Libraries:** Pandas (Vectorized modifications), NumPy arrays, Scikit-Learn pipelines
+* **Visualizations & Exploratory Analytics:** Matplotlib visualization maps, Seaborn analytical plots, Detailed Exploratory Data Analysis (EDA), Missing-value recovery models, Structural anomaly detection
+* **Enterprise Reporting:** Power BI analytics suites, Complex DAX dimensional measures, Advanced Microsoft Excel workbooks (Dynamic lookups, multi-layer pivot dashboards)
 
 ---
 
-## ⚡ AI Automation
-
-* n8n
-* Make
-* Zapier
-* Vapi
-* ElevenLabs
-* Firecrawl
-* Tavily AI
-* Trigger.dev
-* Webhooks
-* REST APIs
-* API Integrations
-* JSON APIs
+## 🔌 Background Processing & Workflow Automation
+* **Automated Platforms:** n8n architecture nodes, Make.com triggers, Zapier hooks, Trigger.dev (Durable production background jobs)
+* **Voice & Extraction Automation:** Vapi telephony integrations, ElevenLabs synthesis, Firecrawl scraper systems, Tavily AI semantic search wrappers
+* **Endpoints & Structures:** Complex REST API integrations, Event-driven Webhooks, Multi-tier JSON parsing workflows, Web scraper engines
 
 ---
 
-## 🚀 AI Development Tools
-
-* Cursor
-* Lovable
-* Bolt.new
-* Blink
-* Replit
-* Windsurf
-* Claude Code
-* GitHub Copilot
-* Continue.dev
-* Firebase Studio
-* v0
-* Antigravity
+## 🚀 Advanced Developer Tools & Modern Environments
+* **AI-Native Engineering:** Cursor IDE, Lovable platforms, Bolt.new, Blink environments, Replit setups, Windsurf toolsets, Claude Code CLI, GitHub Copilot arrays, Continue.dev architectures, v0 UI compilers
+* **Workflow & Dependencies:** Git version protocols, GitHub collaboration, Visual Studio Code workspace profiling, Postman routing tests, npm/pnpm packet modules
 
 ---
 
-## ☁️ Cloud & Deployment
+# 🛠 System Topology (What I Build)
 
-<p>
+### 🏗 Data Infrastructure
+✅ **End-to-End AWS Pipelines:** PySpark data streaming channels converting messy records into fast, queried parquet files.
+✅ **High-Performance Schemas:** Highly tuned transactional PostgreSQL frameworks dropping analytical query latency over 40%.
+✅ **Storage Architecture:** Intelligent multi-tier AWS S3 storage lake structures utilizing partitioning and Athena querying templates.
 
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,firebase,supabase,cloudflare"/>
-
-</p>
-
-**Experience with**
-
-* AWS EC2
-* AWS S3
-* AWS IAM
-* AWS Lambda
-* AWS CloudFront
-* Docker
-* Vercel
-* Firebase
-* Supabase
+### 🤖 Applied Automation & Artificial Intelligence
+✅ **Durable AI Agents:** Long-running, resilient agentic background jobs that survive hardware redeploys via Trigger.dev.
+✅ **Intelligent Internal Automation:** Multi-source enterprise API connectors engineered through serverless n8n / custom webhooks.
+✅ **Interactive UI Dashboards:** Automated executive Power BI data reporting dashboards with complex semantic tiering metrics.
 
 ---
 
-## 🛠 Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,pnpm"/>
-
-</p>
-
----
-
-# 🚀 What I Build
-
-✅ AI Applications
-
-✅ AI Agents
-
-✅ AI Chatbots
-
-✅ AI Workflow Automation
-
-✅ AI SaaS Products
-
-✅ Retrieval-Augmented Generation (RAG)
-
-✅ Business Automation Systems
-
-✅ Data Analytics Dashboards
-
-✅ Business Intelligence Reports
-
-✅ REST APIs
-
-✅ Intelligent Internal Tools
-
-✅ Production-Ready AI Solutions
-
----
-
-# 🔥 GitHub Streak
+# 📊 Live Activity & Repository Analytics
 
 <p align="center">
+  <img src="https://vercel.app" alt="Ritik's GitHub Stats" width="48%"/>
+  <img src="https://vercel.app" alt="Ritik's Top Languages" width="48%"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true" alt="Ritik's Contribution Streak" width="97%"/>
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Engineer Something Together
 
-📧 **Email**
-
+📧 **Direct Inquiries**  
 **[yadavritik2027@gmail.com](mailto:yadavritik2027@gmail.com)**
 
-🌐 **Portfolio**
-
+🌐 **Production Portfolio**  
 **https://ritikyadav18.vercel.app**
 
-💼 **LinkedIn**
-
+💼 **Professional Network**  
 **https://www.linkedin.com/in/ritikyadav18**
 
-💻 **GitHub**
-
+💻 **Source Repository**  
 **https://github.com/ritikyadav-io**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my engineering workspace!
 
-**Data Engineer • Data Analyst • AI Automation Builder**
+**Distributed Data Architect • High-Performance Systems Builder**
 
-**Building Intelligent Products • Solving Real Problems • Shipping Impact 🚀**
+**Optimizing Data Streams • Solving Infrastructure Constraints • Shipping Scalable Code 🚀**
 
 </div>
