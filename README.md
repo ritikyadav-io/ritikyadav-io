@@ -1,145 +1,212 @@
-<div align="center">
-
 # Hi 👋, I'm Ritik Yadav
 
-### Data Infrastructure Engineer • Cloud Architect • AI Automation Builder
-
-<img src="https://demolab.com" />
+### Aspiring Data Engineer | Cloud Engineer | AI Automation Builder
 
 <p align="center">
-  <a href="mailto:yadavritik2027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ritikyadav18">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/ritikyadav-io">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://ritikyadav18.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Pipelines;Exploring+AWS+Cloud+Engineering;Learning+PySpark+%26+Apache+Kafka;Turning+Raw+Data+into+Insights" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <a href="mailto:yadavritik2027@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ritikyadav18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://ritikyadav18.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **B.Tech Artificial Intelligence & Data Science** specialist deeply passionate about architecting **high-throughput distributed data infrastructures, scalable ETL data pipelines, and optimized cloud ecosystems**. My background merges advanced data lifecycle management with modern agentic AI tooling to turn fragmented, multi-source raw records into production-grade transactional and analytical environments.
+I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**, focused on building practical skills in **Data Engineering and Cloud Engineering**.
 
-I thrive on eliminating systemic system bottlenecks using **PySpark large-scale distributed computing, event-driven streaming with Apache Kafka, AWS cloud computing systems, database tuning, and automated operational orchestration**.
+I enjoy working with data pipelines, databases, cloud services, automation, and analytics. My goal is to develop reliable systems that collect, transform, store, and process data efficiently.
 
----
-
-# 🚀 Current Focus & Systems Engineering
-
-* 🔄 **Distributed ETL Architecture** | Orchestrating multi-tier PySpark distributed batch processing & Glue ETL scripts.
-* ⚡ **Real-Time Stream Processing** | Architecting robust event ingestion mechanisms via Apache Kafka topologies.
-* 🗄️ **Query Optimization & Tuning** | Enhancing PostgreSQL/RDS execution plans, indices, and vacuum modeling for 40%+ performance gains.
-* 🧠 **Data Structures & Algorithms (DSA)** | Continually mastering highly complex problem-solving patterns to build low-overhead codebase foundations.
-* 🔗 **AI Agentic Data Workflows** | Integrating enterprise-grade AI tools (n8n, LangChain, Trigger.dev) for background process streaming.
-* ☁️ **Cloud Data Warehousing** | Designing star/snowflake dimensional schemas on AWS Redshift and structural S3 storage lakes.
+- ☁️ Exploring AWS cloud infrastructure and data services
+- 🔄 Learning to build ETL/ELT pipelines and automated workflows
+- ⚡ Developing skills in Python, SQL, Apache Spark, and PySpark
+- 📊 Working with data analytics, dashboards, and reporting
+- 🧠 Practicing DSA and problem-solving for software and data roles
+- 🚀 Building projects to strengthen my engineering fundamentals
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming & Core Languages
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,bash" alt="Programming Languages" />
 </p>
 
----
+### 🗄️ Databases & Querying
 
-## ⚡ Data Engineering & Cloud Infrastructure
 <p>
-  <img src="https://skillicons.dev"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Technologies" />
 </p>
 
-**Core Capabilities & Services:**
-* **Distributed Compute / Ingestion:** PySpark, Apache Spark, Apache Kafka (Real-time data feeds)
-* **AWS Computing & Orchestration:** AWS Glue ETL, AWS Lambda (Serverless pipelines), AWS S3 Data Lakes, Amazon Athena, Amazon Redshift, AWS EC2, AWS IAM (Role-based security enforcement), AWS CloudFront
-* **Relational Warehousing & Analytics:** PostgreSQL query analysis, Amazon RDS indexing, MySQL cluster management, Microsoft SQL Server, Schema Mapping (Star/Snowflake), Window analytical operations
+- SQL: joins, subqueries, CTEs, window functions, aggregations
+- Database design, normalization, indexing, and query optimization
+- PostgreSQL, MySQL, and Amazon Redshift concepts
+
+### ⚡ Data Engineering & Big Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=apache" alt="Apache ecosystem" />
+</p>
+
+| Technology | Focus |
+|---|---|
+| Apache Spark | Distributed data processing |
+| PySpark | Data transformations and batch processing |
+| Apache Kafka | Event streaming and data ingestion |
+| ETL / ELT | Data extraction, transformation, and loading |
+| Data Warehousing | Star schema, snowflake schema, dimensional modelling |
+| File Formats | CSV, JSON, Parquet |
+| dbt | SQL-based data transformation and modelling |
+
+### ☁️ AWS & Cloud Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud and DevOps Tools" />
+</p>
+
+- **Storage:** Amazon S3
+- **Data Integration:** AWS Glue
+- **Serverless Computing:** AWS Lambda
+- **Query Services:** Amazon Athena
+- **Data Warehousing:** Amazon Redshift
+- **Compute:** Amazon EC2
+- **Databases:** Amazon RDS
+- **Security:** AWS IAM
+- **Monitoring:** Amazon CloudWatch
+- **Cloud Fundamentals:** IAM, networking basics, permissions, monitoring, and cost awareness
+
+### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python Analytics" />
+</p>
+
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Microsoft Excel
+- Power BI and DAX
+- Data cleaning, exploratory data analysis (EDA), and KPI reporting
+
+### 🤖 AI & Workflow Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i= n8n" alt="Automation Tools" />
+</p>
+
+- OpenAI API and LLM integrations
+- n8n workflow automation
+- REST APIs and webhooks
+- JSON processing and data extraction
+- AI-assisted application development
+
+### 🔧 Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux" alt="Developer Tools" />
+</p>
+
+- Visual Studio Code
+- Git and GitHub
+- Postman
+- Linux command line
+- Docker fundamentals
+- VS Code-based development and debugging
 
 ---
 
-## 🤖 AI Engineering & Orchestration
-* **Language Engines & Integrations:** OpenAI API, Claude API (Anthropic), Google Gemini, Groq Core, OpenRouter, Hugging Face Hub, Ollama (Local LLM configurations)
-* **Agent Frameworks:** LangChain pipeline design, MCP (Model Context Protocol) registry hooks, Vector-embedded RAG systems, Context window optimization, Prompt compilation strategies, Production AI chatbots
+## 🏗️ Featured Projects
+
+### 1. Real-Time YouTube Watch Party
+
+A web application that synchronizes YouTube playback between multiple users in real time.
+
+**Technologies:** Node.js, Express.js, TypeScript, Socket.IO, HTML, CSS, YouTube IFrame Player API
+
+- Real-time communication using WebSockets
+- Synchronized playback events across connected users
+- Shared viewing experience through a browser-based interface
+
+🔗 **Live Demo:** https://yotube-watch-party.onrender.com/
+
+### 2. InternBot — Job Search & Resume Assistant
+
+A job-search project focused on organizing opportunities and supporting resume-to-job-description matching.
+
+**Technologies:** Python / JavaScript (as implemented), Supabase, APIs, web development
+
+- Job discovery and opportunity tracking
+- Resume and job-description matching workflow
+- Structured storage for application-related data
+
+🔗 **Repository:** Add your actual GitHub project URL here.
+
+### 3. AWS Data Engineering Pipeline
+
+A project to ingest raw data, transform it, and make it available for analytical queries using AWS services.
+
+**Suggested architecture:** Amazon S3 → AWS Glue → Amazon S3 (Parquet) → Amazon Athena → Power BI
+
+- Organize raw and transformed data in separate S3 locations
+- Apply transformations and data-quality checks
+- Query processed datasets for analytics
+
+🔗 **Repository:** Add the repository after implementing and testing the pipeline.
+
+### 4. Kafka + PySpark Streaming Pipeline
+
+A planned project to explore event-driven data ingestion and stream processing.
+
+**Suggested architecture:** Event Producer → Apache Kafka → PySpark Structured Streaming → Data Storage
+
+- Ingest simulated events through Kafka
+- Process and transform incoming records
+- Handle invalid records and track processing results
+- Store processed data for downstream analytics
+
+🔗 **Repository:** Add the repository after implementing the project.
 
 ---
 
-## 📊 Data Analytics & Business Intelligence
-* **Data Processing Libraries:** Pandas (Vectorized modifications), NumPy arrays, Scikit-Learn pipelines
-* **Visualizations & Exploratory Analytics:** Matplotlib visualization maps, Seaborn analytical plots, Detailed Exploratory Data Analysis (EDA), Missing-value recovery models, Structural anomaly detection
-* **Enterprise Reporting:** Power BI analytics suites, Complex DAX dimensional measures, Advanced Microsoft Excel workbooks (Dynamic lookups, multi-layer pivot dashboards)
-
----
-
-## 🔌 Background Processing & Workflow Automation
-* **Automated Platforms:** n8n architecture nodes, Make.com triggers, Zapier hooks, Trigger.dev (Durable production background jobs)
-* **Voice & Extraction Automation:** Vapi telephony integrations, ElevenLabs synthesis, Firecrawl scraper systems, Tavily AI semantic search wrappers
-* **Endpoints & Structures:** Complex REST API integrations, Event-driven Webhooks, Multi-tier JSON parsing workflows, Web scraper engines
-
----
-
-## 🚀 Advanced Developer Tools & Modern Environments
-* **AI-Native Engineering:** Cursor IDE, Lovable platforms, Bolt.new, Blink environments, Replit setups, Windsurf toolsets, Claude Code CLI, GitHub Copilot arrays, Continue.dev architectures, v0 UI compilers
-* **Workflow & Dependencies:** Git version protocols, GitHub collaboration, Visual Studio Code workspace profiling, Postman routing tests, npm/pnpm packet modules
-
----
-
-# 🛠 System Topology (What I Build)
-
-### 🏗 Data Infrastructure
-✅ **End-to-End AWS Pipelines:** PySpark data streaming channels converting messy records into fast, queried parquet files.
-✅ **High-Performance Schemas:** Highly tuned transactional PostgreSQL frameworks dropping analytical query latency over 40%.
-✅ **Storage Architecture:** Intelligent multi-tier AWS S3 storage lake structures utilizing partitioning and Athena querying templates.
-
-### 🤖 Applied Automation & Artificial Intelligence
-✅ **Durable AI Agents:** Long-running, resilient agentic background jobs that survive hardware redeploys via Trigger.dev.
-✅ **Intelligent Internal Automation:** Multi-source enterprise API connectors engineered through serverless n8n / custom webhooks.
-✅ **Interactive UI Dashboards:** Automated executive Power BI data reporting dashboards with complex semantic tiering metrics.
-
----
-
-# 📊 Live Activity & Repository Analytics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://vercel.app" alt="Ritik's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Ritik's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true" alt="Ritik's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true" alt="Ritik's Contribution Streak" width="97%"/>
+  <img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="75%" />
 </p>
 
 ---
 
-# 📫 Let's Engineer Something Together
+## 🎯 Current Learning Goals
 
-📧 **Direct Inquiries**  
-**[yadavritik2027@gmail.com](mailto:yadavritik2027@gmail.com)**
-
-🌐 **Production Portfolio**  
-**https://ritikyadav18.vercel.app**
-
-💼 **Professional Network**  
-**https://www.linkedin.com/in/ritikyadav18**
-
-💻 **Source Repository**  
-**https://github.com/ritikyadav-io**
+- Strengthen SQL and Python fundamentals
+- Practice PySpark and distributed data processing
+- Learn Apache Kafka and streaming concepts
+- Build end-to-end AWS ETL pipelines
+- Understand data warehouses, dbt, and data modelling
+- Improve Linux, Docker, Git, and cloud deployment skills
+- Solve DSA problems consistently
 
 ---
 
-<div align="center">
+## 🤝 Connect With Me
 
-### ⭐ Thanks for visiting my engineering workspace!
+<p align="center">
+  <a href="mailto:yadavritik2027@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ritikyadav18">LinkedIn</a> •
+  <a href="https://github.com/ritikyadav-io">GitHub</a> •
+  <a href="https://ritikyadav18.vercel.app">Portfolio</a>
+</p>
 
-**Distributed Data Architect • High-Performance Systems Builder**
-
-**Optimizing Data Streams • Solving Infrastructure Constraints • Shipping Scalable Code 🚀**
-
-</div>
+<p align="center">
+  <i>Learning by building. Improving through experimentation. Engineering one project at a time.</i> 🚀
+</p>
