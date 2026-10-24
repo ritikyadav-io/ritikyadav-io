@@ -1,4 +1,4 @@
-                                                            # Hi 👋, I'm Ritik Yadav
+                                                          # Hi 👋, I'm Ritik Yadav
 
                                         ### Aspiring Data Engineer | Cloud Engineer | AI Automation Builder
 
@@ -161,11 +161,20 @@ I am developing problem-solving skills through pattern-based practice.
 - Sorting and searching
 
 ---
-## 🐍 My Contribution Snake
+
+<h2 align="center">🐍 My GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ritikyadav-io/ritikyadav-io/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ritikyadav-io/ritikyadav-io/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ritikyadav-io/ritikyadav-io/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/ritikyadav-io/ritikyadav-io/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
