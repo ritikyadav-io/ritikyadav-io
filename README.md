@@ -161,32 +161,27 @@ I am developing problem-solving skills through pattern-based practice.
 - Sorting and searching
 
 ---
-
-## ⚡ My Developer Journey
+## ⚡ Developer Focus
 
 <p align="center">
   <a href="https://github.com/ritikyadav-io">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
   </a>
   <a href="https://leetcode.com/u/ritikyadav-dsa/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Practice" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav-io&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%" />
+  <img src="https://img.shields.io/badge/FOCUS-Data%20Engineering-0A7EA4?style=flat-square" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/FOCUS-AWS%20Cloud-FF9900?style=flat-square" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/FOCUS-Python%20%26%20SQL-3776AB?style=flat-square" alt="Python and SQL" />
+  <img src="https://img.shields.io/badge/FOCUS-DSA-7B61FF?style=flat-square" alt="DSA" />
 </p>
 
 <p align="center">
-  <b>💻 Data Engineering</b> &nbsp; • &nbsp;
-  <b>☁️ Cloud Computing</b> &nbsp; • &nbsp;
-  <b>🧠 DSA Practice</b>
+  <i>Building projects. Practising problem-solving. Growing as an engineer.</i>
 </p>
-
-<p align="center">
-  <i>Learning by building, solving problems, and improving every day.</i>
-</p>
-
 ---
 
 ## 🧠 LeetCode & DSA
