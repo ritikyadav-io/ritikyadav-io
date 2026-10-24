@@ -2,7 +2,7 @@
 
                                            **Aspiring Data Engineer | Cloud Computing | AI Automation**
 
-<p align="left">
+<p align="middle">
   <a href="https://github.com/ritikyadav-io">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
