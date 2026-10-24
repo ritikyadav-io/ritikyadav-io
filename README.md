@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ritik Yadav
+                                                   ## Hi 👋, I'm Ritik Yadav
 
-### Aspiring Data Engineer | Cloud Engineer | AI Automation Builder
+                                  ### Aspiring Data Engineer | Cloud Engineer | AI Automation Builder
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+Data+Engineering;Building+with+Python+%26+SQL;Exploring+PySpark+%26+Kafka;Learning+AWS+Cloud+Services" alt="Typing SVG" />
