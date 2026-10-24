@@ -162,18 +162,29 @@ I am developing problem-solving skills through pattern-based practice.
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ My Developer Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <a href="https://github.com/ritikyadav-io">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://leetcode.com/u/ritikyadav-dsa/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav-io&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritikyadav-io&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <b>💻 Data Engineering</b> &nbsp; • &nbsp;
+  <b>☁️ Cloud Computing</b> &nbsp; • &nbsp;
+  <b>🧠 DSA Practice</b>
+</p>
+
+<p align="center">
+  <i>Learning by building, solving problems, and improving every day.</i>
 </p>
 
 ---
