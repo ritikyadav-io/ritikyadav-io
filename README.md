@@ -161,27 +161,12 @@ I am developing problem-solving skills through pattern-based practice.
 - Sorting and searching
 
 ---
-## ⚡ Developer Focus
+## 🐍 My Contribution Snake
 
 <p align="center">
-  <a href="https://github.com/ritikyadav-io">
-    <img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
-  </a>
-  <a href="https://leetcode.com/u/ritikyadav-dsa/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Practice" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ritikyadav-io/ritikyadav-io/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Data%20Engineering-0A7EA4?style=flat-square" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/FOCUS-AWS%20Cloud-FF9900?style=flat-square" alt="AWS Cloud" />
-  <img src="https://img.shields.io/badge/FOCUS-Python%20%26%20SQL-3776AB?style=flat-square" alt="Python and SQL" />
-  <img src="https://img.shields.io/badge/FOCUS-DSA-7B61FF?style=flat-square" alt="DSA" />
-</p>
-
-<p align="center">
-  <i>Building projects. Practising problem-solving. Growing as an engineer.</i>
-</p>
 ---
 
 ## 🧠 LeetCode & DSA
