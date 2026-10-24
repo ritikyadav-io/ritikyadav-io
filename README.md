@@ -165,16 +165,29 @@ I am developing problem-solving skills through pattern-based practice.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikyadav-dsa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-dsa&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritikyadav-dsa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikyadav-io&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
+## 🧠 LeetCode & DSA
+
+<p align="center">
+  <a href="https://leetcode.com/u/ritikyadav-dsa/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/ritikyadav-io">
+    <img src="https://img.shields.io/badge/GitHub-DSA%20Practice-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub DSA Practice" />
+  </a>
+</p>
 ## 📚 Currently Learning
 
 - SQL and database fundamentals
