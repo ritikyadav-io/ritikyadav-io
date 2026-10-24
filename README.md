@@ -3,210 +3,175 @@
 ### Aspiring Data Engineer | Cloud Engineer | AI Automation Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Pipelines;Exploring+AWS+Cloud+Engineering;Learning+PySpark+%26+Apache+Kafka;Turning+Raw+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Learning+Data+Engineering;Building+with+Python+%26+SQL;Exploring+PySpark+%26+Kafka;Learning+AWS+Cloud+Services" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:yadavritik2027@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ritikyadav18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://ritikyadav18.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ritikyadav-dsa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/ritikyadav-dsa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikyadav-dsa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**, focused on building practical skills in **Data Engineering and Cloud Engineering**.
-
-I enjoy working with data pipelines, databases, cloud services, automation, and analytics. My goal is to develop reliable systems that collect, transform, store, and process data efficiently.
-
-- ☁️ Exploring AWS cloud infrastructure and data services
-- 🔄 Learning to build ETL/ELT pipelines and automated workflows
-- ⚡ Developing skills in Python, SQL, Apache Spark, and PySpark
-- 📊 Working with data analytics, dashboards, and reporting
-- 🧠 Practicing DSA and problem-solving for software and data roles
-- 🚀 Building projects to strengthen my engineering fundamentals
+- 🎓 B.Tech student in **Artificial Intelligence & Data Science**
+- 🌱 Learning **Data Engineering, Cloud Computing, and distributed data processing**
+- 🛠️ Practising Python, SQL, ETL pipelines, and AWS services
+- ⚡ Exploring PySpark, Apache Kafka, data warehouses, and workflow automation
+- 🎯 Goal: Build practical projects and become job-ready for a Junior Data Engineer or Cloud Engineer role
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Programming Languages
-
+### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,bash" alt="Programming languages" />
 </p>
 
-### 🗄️ Databases & Querying
-
+### Databases & Querying
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
 </p>
 
-- SQL: joins, subqueries, CTEs, window functions, aggregations
-- Database design, normalization, indexing, and query optimization
-- PostgreSQL, MySQL, and Amazon Redshift concepts
+**Also learning:** SQL, query optimization, database design, and data modelling.
 
-### ⚡ Data Engineering & Big Data
+### Data Engineering & Big Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=apache" alt="Apache ecosystem" />
+  <img src="https://skillicons.dev/icons?i=apache,spark" alt="Apache and Spark" />
 </p>
 
-| Technology | Focus |
-|---|---|
-| Apache Spark | Distributed data processing |
-| PySpark | Data transformations and batch processing |
-| Apache Kafka | Event streaming and data ingestion |
-| ETL / ELT | Data extraction, transformation, and loading |
-| Data Warehousing | Star schema, snowflake schema, dimensional modelling |
-| File Formats | CSV, JSON, Parquet |
-| dbt | SQL-based data transformation and modelling |
+**Tools and concepts:** PySpark, Apache Kafka, ETL/ELT, batch processing, streaming fundamentals, Parquet, data pipelines, dbt, Snowflake, Amazon Redshift.
 
-### ☁️ AWS & Cloud Engineering
+### AWS & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud and DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="AWS, Docker and Linux" />
 </p>
 
-- **Storage:** Amazon S3
-- **Data Integration:** AWS Glue
-- **Serverless Computing:** AWS Lambda
-- **Query Services:** Amazon Athena
-- **Data Warehousing:** Amazon Redshift
-- **Compute:** Amazon EC2
-- **Databases:** Amazon RDS
-- **Security:** AWS IAM
-- **Monitoring:** Amazon CloudWatch
-- **Cloud Fundamentals:** IAM, networking basics, permissions, monitoring, and cost awareness
+**AWS services:** Amazon S3, AWS Glue, AWS Lambda, Amazon Athena, Amazon Redshift, Amazon EC2, Amazon RDS, IAM, CloudWatch.
 
-### 📊 Data Analytics & Visualization
+### Data Analysis & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python Analytics" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-- Pandas and NumPy
-- Matplotlib and Seaborn
-- Microsoft Excel
-- Power BI and DAX
-- Data cleaning, exploratory data analysis (EDA), and KPI reporting
-
-### 🤖 AI & Workflow Automation
+### Developer Tools & Automation
 
 <p>
-  <img src="https://skillicons.dev/icons?i= n8n" alt="Automation Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-- OpenAI API and LLM integrations
-- n8n workflow automation
-- REST APIs and webhooks
-- JSON processing and data extraction
-- AI-assisted application development
-
-### 🔧 Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux" alt="Developer Tools" />
-</p>
-
-- Visual Studio Code
-- Git and GitHub
-- Postman
-- Linux command line
-- Docker fundamentals
-- VS Code-based development and debugging
+**Also exploring:** REST APIs, webhooks, OpenAI APIs, and workflow automation.
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 Projects
 
 ### 1. Real-Time YouTube Watch Party
 
-A web application that synchronizes YouTube playback between multiple users in real time.
+A web application for watching YouTube videos together with real-time synchronization.
 
-**Technologies:** Node.js, Express.js, TypeScript, Socket.IO, HTML, CSS, YouTube IFrame Player API
+- **Tech:** Node.js, Express.js, TypeScript, Socket.IO, YouTube IFrame Player API
+- **Features:** Real-time communication and synchronized playback
+- **Live Demo:** [Open Watch Party](https://yotube-watch-party.onrender.com/)
 
-- Real-time communication using WebSockets
-- Synchronized playback events across connected users
-- Shared viewing experience through a browser-based interface
+### 2. InternBot — Job Search Assistant
 
-🔗 **Live Demo:** https://yotube-watch-party.onrender.com/
+A job-search project focused on discovering relevant opportunities and supporting resume preparation.
 
-### 2. InternBot — Job Search & Resume Assistant
-
-A job-search project focused on organizing opportunities and supporting resume-to-job-description matching.
-
-**Technologies:** Python / JavaScript (as implemented), Supabase, APIs, web development
-
-- Job discovery and opportunity tracking
-- Resume and job-description matching workflow
-- Structured storage for application-related data
-
-🔗 **Repository:** Add your actual GitHub project URL here.
+- **Tech:** Add only the technologies implemented in your version
+- **Repository:** [Add your InternBot repository URL](https://github.com/ritikyadav-dsa)
 
 ### 3. AWS Data Engineering Pipeline
 
-A project to ingest raw data, transform it, and make it available for analytical queries using AWS services.
+**Project idea / next build:** Create an end-to-end data pipeline that ingests files, transforms data, and makes it available for analytics.
 
-**Suggested architecture:** Amazon S3 → AWS Glue → Amazon S3 (Parquet) → Amazon Athena → Power BI
-
-- Organize raw and transformed data in separate S3 locations
-- Apply transformations and data-quality checks
-- Query processed datasets for analytics
-
-🔗 **Repository:** Add the repository after implementing and testing the pipeline.
+- **Planned architecture:** Amazon S3 → AWS Glue → Amazon S3 (Parquet) → Amazon Athena
+- **Analytics:** Connect the processed data to Power BI
+- **Repository:** Add the project repository after implementation
 
 ### 4. Kafka + PySpark Streaming Pipeline
 
-A planned project to explore event-driven data ingestion and stream processing.
+**Project idea / next build:** Build a streaming pipeline to ingest events, process incoming data, and store the results for analysis.
 
-**Suggested architecture:** Event Producer → Apache Kafka → PySpark Structured Streaming → Data Storage
-
-- Ingest simulated events through Kafka
-- Process and transform incoming records
-- Handle invalid records and track processing results
-- Store processed data for downstream analytics
-
-🔗 **Repository:** Add the repository after implementing the project.
+- **Planned tools:** Apache Kafka, PySpark Structured Streaming, Python
+- **Repository:** Add the project repository after implementation
 
 ---
 
-## 📈 GitHub Statistics
+## 🧠 LeetCode & DSA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true" alt="Ritik's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180" />
+  <a href="https://leetcode.com/u/ritikyadav-dsa/">
+    <img src="https://leetcard.jacoblin.cool/ritikyadav-dsa?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="75%" />
+  <a href="https://github.com/ritikyadav-dsa">
+    <img src="https://img.shields.io/badge/DSA%20Practice-181717?style=for-the-badge&logo=github&logoColor=white" alt="DSA Practice Repository" />
+  </a>
+</p>
+
+I practise DSA problem-solving and focus on arrays, hashing, two pointers, sliding windows, stacks, queues, binary search, and other core patterns.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikyadav-dsa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-dsa&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ritikyadav-dsa&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🎯 Current Learning Goals
+## 📚 Currently Learning
 
-- Strengthen SQL and Python fundamentals
-- Practice PySpark and distributed data processing
-- Learn Apache Kafka and streaming concepts
-- Build end-to-end AWS ETL pipelines
-- Understand data warehouses, dbt, and data modelling
-- Improve Linux, Docker, Git, and cloud deployment skills
-- Solve DSA problems consistently
+- SQL and database fundamentals
+- Python for data processing
+- AWS cloud services and ETL concepts
+- PySpark and Apache Kafka
+- Linux, Docker, and data engineering workflows
+- DSA patterns for technical interviews
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:yadavritik2027@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/ritikyadav18">LinkedIn</a> •
-  <a href="https://github.com/ritikyadav-io">GitHub</a> •
-  <a href="https://ritikyadav18.vercel.app">Portfolio</a>
+  <a href="https://github.com/ritikyadav-dsa">GitHub</a> •
+  <a href="https://leetcode.com/u/ritikyadav-dsa/">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <i>Learning by building. Improving through experimentation. Engineering one project at a time.</i> 🚀
+  <i>Learning consistently. Building projects. Improving every day.</i>
 </p>
