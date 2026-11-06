@@ -1,83 +1,84 @@
-<h1 align="center">Hi, I'm Ritik Yadav 👋</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Data Engineer | Cloud Computing | AI Automation</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ritik%20Yadav&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Cloud%20%7C%20AI%20Automation&descAlignY=60&descSize=20" alt="Banner" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/ritikyadav-io">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ritikyadav18/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://github.com/ritikyadav-io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+reliable+data+pipelines;Learning+AWS%2C+PySpark+%26+Kafka;Automating+workflows+with+n8n;B.Tech+AI+%26+Data+Science+%7C+Class+of+2027" alt="Typing SVG" />
+</a>
 
-I'm a B.Tech student in Artificial Intelligence & Data Science who enjoys building reliable data pipelines, working with cloud technologies, and shipping practical software projects.
+<br/>
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science (2027)
-- 📍 **Location:** Jaipur, Rajasthan, India
-- ☁️ **Cloud:** Exploring AWS services and cloud architecture
-- ⚙️ **Data:** Python, SQL, ETL workflows, PySpark and Kafka
-- 🤖 **Automation:** n8n workflows, API testing with Postman, CI/CD with Jenkins
-- 🧩 **Building:** Practical projects focused on data, automation and real-time applications
+<a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ritikyadav18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://yotube-watch-party.onrender.com/"><img src="https://img.shields.io/badge/Live_Project-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Project" /></a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2027) from **Jaipur, India**. I like turning raw data into reliable pipelines, automating boring work, and shipping real products. Alongside college, I build websites for local businesses and work on my own side projects.
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in AI & Data Science, Arya College of Engineering & IT, Jaipur |
+| 🎯 **Target Roles** | Data Engineer, Data Analyst, Business Analyst |
+| ☁️ **Cloud** | AWS (S3, Glue, Lambda, Athena) |
+| ⚙️ **Data Stack** | Python, SQL, PySpark, Kafka, ETL/ELT, Parquet |
+| 🤖 **Automation** | n8n, Postman, Jenkins CI/CD |
+| 💼 **Freelance** | Web development for cafes, clinics, gyms, salons and restaurants |
+| 📍 **Location** | Jaipur, Rajasthan, India |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Querying
+### Languages & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,mysql,postgres&perline=10" alt="Languages and Databases" />
 </p>
 
-### Data Engineering
+### Data Engineering & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/ETL%2FELT-4051B5?style=flat-square" alt="ETL and ELT" />
-  <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=flat-square" alt="Apache Parquet" />
+  <img src="https://skillicons.dev/icons?i=kafka,pandas,numpy,powerbi&perline=10" alt="Data tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-4051B5?style=for-the-badge" alt="ETL and ELT" />
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" alt="Parquet" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=flat-square" alt="AWS Glue" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,git,github&perline=10" alt="Cloud and DevOps" />
 </p>
 
-### Version Control & API Tools
-
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Glue" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Athena" />
 </p>
 
-### Automation & AI Tools
+### Backend, APIs & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Higgsfield_AI-000000?style=flat-square" alt="Higgsfield AI" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=10" alt="Backend tools" />
 </p>
 
-### Databases & Analytics
-
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Higgsfield_AI-000000?style=for-the-badge" alt="Higgsfield AI" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ---
@@ -85,58 +86,103 @@ I'm a B.Tech student in Artificial Intelligence & Data Science who enjoys buildi
 ## 🚀 Featured Projects
 
 ### ▶️ Real-Time YouTube Watch Party
+> Watch YouTube together with perfectly synchronized playback.
 
-A web application for watching YouTube videos together with synchronized playback.
-
+- **What it does:** Users join a room and play, pause and seek videos in sync in real time
 - **Stack:** Node.js, Express.js, TypeScript, Socket.IO, YouTube IFrame Player API
-- **Focus:** Real-time communication and synchronized playback
+- **Skills shown:** WebSockets, real-time events, API integration, deployment on Render
 
-[**View Live Project →**](https://yotube-watch-party.onrender.com/)
+[**🔗 View Live Project**](https://yotube-watch-party.onrender.com/)
 
-### 🤖 InternBot — Job Search Assistant
+### 🤖 InternBot: Job Search Assistant
+> An assistant that finds relevant jobs and helps match them with your resume.
 
-A job-search project focused on finding relevant opportunities and assisting with resume preparation.
+- **What it does:** Job discovery, resume matching and application workflow support
+- **Skills shown:** Automation, filtering and scoring logic, resume tailoring
 
-- **Focus:** Job discovery, resume matching and application workflows
-- **Code:** [Explore my GitHub repositories](https://github.com/ritikyadav-io?tab=repositories)
+[**🔗 View Code**](https://github.com/ritikyadav-io?tab=repositories)
 
-### ☁️ AWS Data Pipeline
+### 🛡️ SafeWalk AI
+> Android women's safety app.
 
-*Planned project*
+- **Stack:** Kotlin, Jetpack Compose
+- **Focus:** Safety-first mobile experience
 
-An end-to-end batch processing pipeline designed to ingest, transform and query data.
+### 🔍 RankPilot AI
+> AI-powered SEO tool built as a SaaS product.
 
-- **Proposed stack:** Amazon S3, AWS Glue, Parquet and Amazon Athena
-- **Goal:** Build a reproducible data pipeline for analytics
-
-### ⚡ Streaming Data Pipeline
-
-*Planned project*
-
-A streaming pipeline designed to process incoming events and transform data in near real time.
-
-- **Proposed stack:** Apache Kafka, PySpark and Python
-- **Goal:** Practise event-driven data processing
+- **Focus:** Helping websites improve search rankings with AI suggestions
 
 ---
 
-## 🌱 Currently Exploring
+## 🗺️ Data Engineering Projects (In Progress)
 
-- Advanced SQL and query optimization
-- Python for data processing
-- AWS data services and cloud architecture
-- ETL pipeline design and data modelling
-- Distributed processing with PySpark
-- Event streaming with Kafka
-- CI/CD with Jenkins and workflow automation with n8n
+### ☁️ AWS Batch Data Pipeline
+
+```text
+Raw Data (CSV/JSON)
+        │
+        ▼
+   Amazon S3  ──►  AWS Glue (ETL)  ──►  Parquet (S3)  ──►  Amazon Athena (SQL)  ──►  Power BI
+```
+
+- **Goal:** Build a reproducible batch pipeline to ingest, transform and query data
+- **Status:** 🟡 Planned
+
+### ⚡ Real-Time Streaming Pipeline
+
+```text
+Event Producer  ──►  Apache Kafka  ──►  PySpark Streaming  ──►  Storage / Dashboard
+```
+
+- **Goal:** Process incoming events and transform data in near real time
+- **Status:** 🟡 Planned
 
 ---
 
-## 📫 Connect
+## 🌱 Currently Learning
 
-- **GitHub:** [ritikyadav-io](https://github.com/ritikyadav-io)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ritikyadav18/)
+- 🔹 Advanced SQL and query optimization
+- 🔹 Data Structures & Algorithms (NeetCode 150)
+- 🔹 PySpark and distributed processing
+- 🔹 Kafka and event streaming
+- 🔹 AWS data services and cloud architecture
+- 🔹 CI/CD with Jenkins and workflow automation with n8n
 
-<p align="center">
-  <i>Focused on learning, building, and solving practical engineering problems.</i>
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav-io&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **Data Engineer / Data Analyst / Business Analyst** opportunities and internships.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ritikyadav18/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+*Focused on learning, building, and solving practical engineering problems.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" width="100%" />
+
+</div>
