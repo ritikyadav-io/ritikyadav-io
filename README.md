@@ -8,6 +8,9 @@
 
 <a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/ritikyadav18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yadavritik2027@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ritikyadav01.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/u/ritikyadav-dsa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 </div>
 
@@ -25,6 +28,9 @@ I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2
 | ⚙️ **Data Stack** | Python, SQL, PySpark, Kafka, ETL/ELT |
 | 🤖 **Automation** | n8n, Postman, Jenkins CI/CD |
 | 💼 **Freelance** | Websites for cafes, clinics, gyms, salons and restaurants |
+| 🌐 **Portfolio** | [ritikyadav01.vercel.app](https://ritikyadav01.vercel.app) |
+| 🧠 **LeetCode** | [ritikyadav-dsa](https://leetcode.com/u/ritikyadav-dsa/) |
+| 📧 **Email** | [yadavritik2027@gmail.com](mailto:yadavritik2027@gmail.com) |
 | 📍 **Location** | Jaipur, Rajasthan, India |
 
 ---
@@ -112,7 +118,7 @@ I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2
 ## 🌱 Currently Learning
 
 - 🔹 Advanced SQL and query optimization
-- 🔹 Data Structures & Algorithms
+- 🔹 Data Structures & Algorithms (practising on [LeetCode](https://leetcode.com/u/ritikyadav-dsa/))
 - 🔹 PySpark and distributed processing
 - 🔹 Kafka and event streaming
 - 🔹 AWS data services and cloud architecture
@@ -141,6 +147,9 @@ I'm open to **Data Engineer / Data Analyst / Business Analyst** opportunities an
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ritikyadav18/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yadavritik2027@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ritikyadav01.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/u/ritikyadav-dsa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
