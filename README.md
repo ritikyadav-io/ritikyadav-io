@@ -2,15 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ritik%20Yadav&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Cloud%20%7C%20AI%20Automation&descAlignY=60&descSize=20" alt="Banner" width="100%" />
 
-<a href="https://github.com/ritikyadav-io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+reliable+data+pipelines;Learning+AWS%2C+PySpark+%26+Kafka;Automating+workflows+with+n8n;B.Tech+AI+%26+Data+Science+%7C+Class+of+2027" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+reliable+data+pipelines;Learning+AWS%2C+PySpark+%26+Kafka;Automating+workflows+with+n8n;B.Tech+AI+%26+Data+Science+%7C+Class+of+2027" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ritikyadav-io"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/ritikyadav18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://yotube-watch-party.onrender.com/"><img src="https://img.shields.io/badge/Live_Project-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Live Project" /></a>
 
 </div>
 
@@ -18,67 +15,68 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2027) from **Jaipur, India**. I like turning raw data into reliable pipelines, automating boring work, and shipping real products. Alongside college, I build websites for local businesses and work on my own side projects.
+I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2027) from **Jaipur, India**. I like turning raw data into reliable pipelines, automating repetitive work, and shipping real products. Alongside college, I build websites for local businesses and work on my own side projects.
 
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech in AI & Data Science, Arya College of Engineering & IT, Jaipur |
 | 🎯 **Target Roles** | Data Engineer, Data Analyst, Business Analyst |
 | ☁️ **Cloud** | AWS (S3, Glue, Lambda, Athena) |
-| ⚙️ **Data Stack** | Python, SQL, PySpark, Kafka, ETL/ELT, Parquet |
+| ⚙️ **Data Stack** | Python, SQL, PySpark, Kafka, ETL/ELT |
 | 🤖 **Automation** | n8n, Postman, Jenkins CI/CD |
-| 💼 **Freelance** | Web development for cafes, clinics, gyms, salons and restaurants |
+| 💼 **Freelance** | Websites for cafes, clinics, gyms, salons and restaurants |
 | 📍 **Location** | Jaipur, Rajasthan, India |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Databases
+**Languages & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,mysql,postgres&perline=10" alt="Languages and Databases" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### Data Engineering & Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,pandas,numpy,powerbi&perline=10" alt="Data tools" />
-</p>
+**Data Engineering & Analytics**
 
 <p>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/ETL%2FELT-4051B5?style=for-the-badge" alt="ETL and ELT" />
   <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" alt="Parquet" />
 </p>
 
-### Cloud & DevOps
+**Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,git,github&perline=10" alt="Cloud and DevOps" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
-  <img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Glue" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" />
-  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Athena" />
+  <img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Glue" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
-### Backend, APIs & Automation
+**Tools, APIs & Automation**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=10" alt="Backend tools" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Higgsfield_AI-000000?style=for-the-badge" alt="Higgsfield AI" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ---
@@ -86,21 +84,17 @@ I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2
 ## 🚀 Featured Projects
 
 ### ▶️ Real-Time YouTube Watch Party
-> Watch YouTube together with perfectly synchronized playback.
+> Watch YouTube together with synchronized playback.
 
 - **What it does:** Users join a room and play, pause and seek videos in sync in real time
 - **Stack:** Node.js, Express.js, TypeScript, Socket.IO, YouTube IFrame Player API
 - **Skills shown:** WebSockets, real-time events, API integration, deployment on Render
 
-[**🔗 View Live Project**](https://yotube-watch-party.onrender.com/)
-
 ### 🤖 InternBot: Job Search Assistant
-> An assistant that finds relevant jobs and helps match them with your resume.
+> Finds relevant jobs and helps match them with your resume.
 
 - **What it does:** Job discovery, resume matching and application workflow support
 - **Skills shown:** Automation, filtering and scoring logic, resume tailoring
-
-[**🔗 View Code**](https://github.com/ritikyadav-io?tab=repositories)
 
 ### 🛡️ SafeWalk AI
 > Android women's safety app.
@@ -115,35 +109,10 @@ I'm a **B.Tech student in Artificial Intelligence & Data Science** (graduating 2
 
 ---
 
-## 🗺️ Data Engineering Projects (In Progress)
-
-### ☁️ AWS Batch Data Pipeline
-
-```text
-Raw Data (CSV/JSON)
-        │
-        ▼
-   Amazon S3  ──►  AWS Glue (ETL)  ──►  Parquet (S3)  ──►  Amazon Athena (SQL)  ──►  Power BI
-```
-
-- **Goal:** Build a reproducible batch pipeline to ingest, transform and query data
-- **Status:** 🟡 Planned
-
-### ⚡ Real-Time Streaming Pipeline
-
-```text
-Event Producer  ──►  Apache Kafka  ──►  PySpark Streaming  ──►  Storage / Dashboard
-```
-
-- **Goal:** Process incoming events and transform data in near real time
-- **Status:** 🟡 Planned
-
----
-
 ## 🌱 Currently Learning
 
 - 🔹 Advanced SQL and query optimization
-- 🔹 Data Structures & Algorithms (NeetCode 150)
+- 🔹 Data Structures & Algorithms
 - 🔹 PySpark and distributed processing
 - 🔹 Kafka and event streaming
 - 🔹 AWS data services and cloud architecture
@@ -155,16 +124,11 @@ Event Producer  ──►  Apache Kafka  ──►  PySpark Streaming  ──►
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritikyadav-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=ritikyadav-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav-io&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikyadav-io&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
